@@ -90,6 +90,3 @@ Distributed under the MIT License. See LICENSE for more information.
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/himanshu-gupta-4a5942201/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/himanshu4030) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/_himanshu1817/) | [<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" alt="Github logo" width="34">](https://github.com/himanshu181749) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:himanshu.applications.grad@gmail.com)
 
 
-Project Link: https://github.com/yourusername/expense-tracker
-
-
